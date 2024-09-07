@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diluka Bandara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center"> A passionate Frontend Developer based in Sri Lanka, specializing in creating dynamic and responsive user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilukanb&label=Profile%20views&color=0e75b6&style=flat" alt="dilukanb" /> </p>
 
