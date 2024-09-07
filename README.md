@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diluka Bandara</h1>
 <h3 align="center"> A passionate Frontend Developer based in Sri Lanka, specializing in creating dynamic and responsive user experiences.</h3>
+<h3 align="center"> As an enthusiastic IT undergraduate at SLIIT, I am deeply passionate about data analysis, data engineering, and statistical tools. My academic journey has equipped me with a robust understanding of the intricacies involved in managing and interpreting data. I thrive on exploring complex datasets and leveraging statistical methods to uncover actionable insights. Whether it's developing data pipelines or applying advanced analytical techniques, I am dedicated to harnessing the power of data to drive meaningful outcomes. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilukanb&label=Profile%20views&color=0e75b6&style=flat" alt="dilukanb" /> </p>
 
